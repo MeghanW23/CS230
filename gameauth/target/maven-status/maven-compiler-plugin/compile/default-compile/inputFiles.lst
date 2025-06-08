@@ -1,0 +1,11 @@
+/Users/meghan/eclipse-workspace/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameAuthorizer.java
+/Users/meghan/eclipse-workspace/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/GameAuthApplication.java
+/Users/meghan/eclipse-workspace/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/dao/GameUserDB.java
+/Users/meghan/eclipse-workspace/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/representations/GameUserInfo.java
+/Users/meghan/eclipse-workspace/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/controller/RESTClientController.java
+/Users/meghan/eclipse-workspace/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/GameAuthConfiguration.java
+/Users/meghan/eclipse-workspace/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/healthcheck/HealthCheckController.java
+/Users/meghan/eclipse-workspace/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameUser.java
+/Users/meghan/eclipse-workspace/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/healthcheck/AppHealthCheck.java
+/Users/meghan/eclipse-workspace/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/controller/GameUserRESTController.java
+/Users/meghan/eclipse-workspace/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameAuthenticator.java
